@@ -1,0 +1,1 @@
+Pour que le code marche, fais npm install, et lance avec npm start
